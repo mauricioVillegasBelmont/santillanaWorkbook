@@ -1,0 +1,12 @@
+[submodule "CCONQSTA"]
+	path = CCONQSTA
+	url = https://github.com/mauricioVillegasBelmont/CCONQSTA
+[submodule "SNME01"]
+	path = SNME01
+	url = https://github.com/mauricioVillegasBelmont/SNME01
+[submodule "tdcgree"]
+	path = tdcgree
+	url = https://github.com/mauricioVillegasBelmont/tdcgree
+[submodule "pdqesc"]
+	path = pdqesc
+	url = https://github.com/mauricioVillegasBelmont/pdqesc
